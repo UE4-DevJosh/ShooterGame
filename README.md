@@ -2,7 +2,7 @@
 
 Shooter Game is an Unreal Engine 4 C++ Third Person Shooter Game.
 
-This project was created on July 8th, 2020. It was created and managed on my local GitLab server. Unfortunately, I was not able to directly port the GitLab project over to GitHub as it was both locally hosted, and was in excess of 20GB (the only files included here are the C#, cpp and header source files).
+This project was created in July, 2020. It was created and managed on my local GitLab server. Unfortunately, I was not able to directly port the GitLab project over to GitHub as it was both locally hosted, and was in excess of 20GB (the only files included here are the C#, cpp and header source files).
 
 
 Below is the Patch and Update History.
